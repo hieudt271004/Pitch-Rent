@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="PRJ301_Assignment">
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/Football/src/java/dal/EquipmentOrderDAO.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/Football/web/views/Login.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/Football/web/views/HistoryEquipment.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/Football/src/java/dal/DBContext.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/Football/src/java/controller/Equipment.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/Football/web/views/Equipment.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/Football/src/java/controller/Historyequipment.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/Football/src/java/dal/EquipmentDAO.java</file>
+        </group>
+        <group>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/Football/src/java/controller/ManageBookingServlet.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/Football/src/java/dal/DBContext.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/Football/src/java/controller/Booking.java</file>
+        </group>
+    </open-files>
+</project-private>
